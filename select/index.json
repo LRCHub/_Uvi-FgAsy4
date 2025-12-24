@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Galileo",
+  "base_artist": "Kep1er",
+  "createdAt": "2025-12-24T11:27:54.188259Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Galileo Was Wrong",
+      "artist": "Zebrahead",
+      "has_synced": false,
+      "path": "select/01_Galileo_Was_Wrong_Zebrahead.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Galileo",
+      "artist": "Edoardo Bennato",
+      "has_synced": true,
+      "path": "select/02_Galileo_Edoardo_Bennato.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Il Dito Medio Di Galileo",
+      "artist": "Caparezza",
+      "has_synced": false,
+      "path": "select/03_Il_Dito_Medio_Di_Galileo_Caparezza.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Funky Galileo",
+      "artist": "Sure Sure",
+      "has_synced": true,
+      "path": "select/04_Funky_Galileo_Sure_Sure.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "いつかの、いくつかのきみとのせかい (Galileo Galilei \"dog bass\" Remix)",
+      "artist": "fhána",
+      "has_synced": false,
+      "path": "select/05_いつかの、いくつかのきみとのせかい_(Galileo_Galilei__dog_bass__Remix)_fhána.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Galileo",
+      "artist": "Amy Grant",
+      "has_synced": true,
+      "path": "select/06_Galileo_Amy_Grant.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Galileo (Someone Like You)",
+      "artist": "Josh Groban",
+      "has_synced": true,
+      "path": "select/07_Galileo_(Someone_Like_You)_Josh_Groban.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Galileo",
+      "artist": "Indigo Girls",
+      "has_synced": true,
+      "path": "select/08_Galileo_Indigo_Girls.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Galileo",
+      "artist": "Iron Mask",
+      "has_synced": false,
+      "path": "select/09_Galileo_Iron_Mask.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Galileo",
+      "artist": "Puscifer",
+      "has_synced": false,
+      "path": "select/10_Galileo_Puscifer.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "FLAT (adding Yuuki Ozaki from Galileo Galilei)",
+      "artist": "livetune",
+      "has_synced": false,
+      "path": "select/11_FLAT_(adding_Yuuki_Ozaki_from_Galileo_Galilei)_livetune.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Galileo (Lead into Gold Mix)",
+      "artist": "Puscifer",
+      "has_synced": true,
+      "path": "select/12_Galileo_(Lead_into_Gold_Mix)_Puscifer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Galileo",
+      "artist": "Kep1er",
+      "has_synced": false,
+      "path": "select/pl_01_Galileo_Kep1er.txt"
+    }
+  ]
+}
